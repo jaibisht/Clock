@@ -1,2 +1,2 @@
 # timeclock
-shows time
+show time in web browser 
